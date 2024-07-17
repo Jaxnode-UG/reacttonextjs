@@ -1,0 +1,17 @@
+{
+    "stream_key": "e79645b4-072a-50ff-8137-2b313cd6a37b",
+    "status": "idle",
+    "srt_passphrase": "fypdo5hnlSGr0UHbUF3Zm4ZPUpf2qQS1",
+    "reconnect_window": 60,
+    "playback_ids": [
+      {
+        "policy": "public",
+        "id": "NT9yaVddmwM9y67OB01zYhBSJm00a2zRuYX00GqIzWQayQ"
+      }
+    ],
+    "new_asset_settings": { "playback_policies": [ "public" ] },
+    "max_continuous_duration": 43200,
+    "latency_mode": "standard",
+    "id": "dCTnpRXSriSS3CjRos600n2K6sGSNIucJaZYob00rZpEw",
+    "created_at": "1721174022"
+  }
