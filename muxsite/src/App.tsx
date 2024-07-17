@@ -18,14 +18,14 @@ function App() {
             <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/video">Video</Link>
+            <Link to="/video/NT9yaVddmwM9y67OB01zYhBSJm00a2zRuYX00GqIzWQayQ">Video</Link>
           </li>
         </ul>
       </nav>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
-        <Route path="/video" element={<Video />} />
+        <Route path="/video/:playbackId" element={<Video />} />
       </Routes>
     </>
     

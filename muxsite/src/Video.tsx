@@ -1,6 +1,8 @@
 import MuxPlayer from "@mux/mux-player-react"; 
+import { useParams } from "react-router-dom";
 
 export default function Video() {
+    const { playbackId } = useParams();
     return (
         <div>
         <h1>Video</h1>
